@@ -8,3 +8,4 @@ end
 gem 'sinatra'
 gem 'faraday'
 gem 'simplecov'
+gem 'rack'
