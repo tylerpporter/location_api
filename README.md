@@ -27,9 +27,6 @@
 }
 
 ```
- 
-* **Error Response:**
-
 
 * **Sample Call:**
 
