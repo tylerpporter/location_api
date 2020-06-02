@@ -1,7 +1,7 @@
 require 'sinatra'
 require 'faraday'
 require 'yaml'
-CONFIG =  YAML.load_file('application.yml')
+# CONFIG =  YAML.load_file('application.yml')
 
 class RapidService < Sinatra::Base
   get '/:zip' do
