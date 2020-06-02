@@ -27,6 +27,7 @@ PLATFORMS
 
 DEPENDENCIES
   faraday
+  rack
   simplecov
   sinatra
 
