@@ -1,2 +1,2 @@
-require './app'
-run HiSinatra
+require './lib/location_service'
+run RapidService
