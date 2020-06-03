@@ -1,6 +1,5 @@
 require 'sinatra'
 require 'faraday'
-require 'yaml'
 require 'dotenv'
 Dotenv.load('var.env')
 
